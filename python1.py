@@ -1,8 +1,6 @@
-from tkinter import *
 import os
 import random
 import string
-import tkinter
 
 print("The database")
 
